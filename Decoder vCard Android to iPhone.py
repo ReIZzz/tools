@@ -15,7 +15,6 @@ with open(File) as file:
 
 
 # many very long rows have wraps (that rows started from "="). Function below remove it
-
 def Merger(list_row):
     list_merged = []
     for i in list_row:
