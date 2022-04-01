@@ -47,10 +47,8 @@ def call_refresh():
 
 
 def find_songs(new_token):
-    # if __name__ == "__main__":
 
     # Extract part of the ETL process
-
     headers = {
         "Accept": "application/json",
         "Content-Type": "application/json",
@@ -120,7 +118,6 @@ def find_songs(new_token):
         )
         """
 
-    # query = connection.execute(sql_query)
 
     cursor.execute(sql_query)
 
@@ -141,7 +138,6 @@ def find_songs(new_token):
         song_df.to_sql("my_played_tracks", engine, schema='spotify', index=False, if_exists='append')
         print("Data load to DB")
 
-    # conn1.commit()
     conn1.close()
     print("Close database successfully")
 
