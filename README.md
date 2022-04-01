@@ -2,7 +2,7 @@
 *Collection of different small programs*
 
 
-### [Collect played tracks using API Spotify 🎶](123)
+### [Collect played tracks using API Spotify 🎶](https://github.com/ReIZzz/tools/tree/main/Spotify%20music)
 Tool for collect yours music listened on Spotify with a renewable token setting
 
 ### [Decoder vCard Android to iPhone 📲](https://github.com/ReIZzz/tools/blob/main/Decoder%20vCard%20Android%20to%20iPhone.py)
