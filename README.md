@@ -12,4 +12,4 @@ Tool for preparing *vCard File* (contacts) exported from Android for load to iPh
 Tool for grab top 30 DE vacancies from headhunter and save in a normalized CSV file
 
 ### [Parser interface status cisco 🖥](https://github.com/ReIZzz/tools/blob/main/Parser_interface_modem/parser_interface.py)
-Tool for parsing SSH answer interface status cisco (example: from this[]() to that[]())
+Tool for parsing SSH answer interface status cisco and save in JSON file (example: from [this](https://github.com/ReIZzz/tools/blob/main/Parser_interface_modem/raw_interface_data.txt) to [that](https://github.com/ReIZzz/tools/blob/main/Parser_interface_modem/json_interfase_data.json))
